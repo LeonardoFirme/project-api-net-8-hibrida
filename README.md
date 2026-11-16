@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="code.png" alt="Código da API Híbrida" width="70%" />
+  <img src="code.png" alt="Código da API Híbrida" width="100%" />
 </div>
 
 <br>
@@ -34,7 +34,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/api-net-8-hibrida.git
+   git clone https://github.com/LeonardoFirme/project-api-net-8-hibrida.git
    ```
 2. Copie o arquivo `appsettings.Development.example.json` e renomeie para `appsettings.Development.json`.
 3. Preencha com sua chave de teste e a string de conexão do seu banco local.
@@ -56,5 +56,5 @@ curl -i -H "X-Api-Key: sk_test_123456789_ChaveDeTeste" \
 
 ---
 <p align="center">
-  Desenvolvido por <a href="https://github.com/SEU_USUARIO">Leonardo Firme</a>
+  Desenvolvido por <a href="https://github.com/LeonardoFirme">Leonardo Firme</a>
 </p>
