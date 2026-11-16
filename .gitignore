@@ -1,0 +1,8 @@
+# Ignorar arquivos de configuração com senhas locais
+appsettings.Development.json
+appsettings.Production.json
+
+# Ignorar pastas de build e publicação
+bin/
+obj/
+publish/
