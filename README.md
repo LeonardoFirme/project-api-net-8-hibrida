@@ -56,5 +56,10 @@ curl -i -H "X-Api-Key: sk_test_123456789_ChaveDeTeste" \
 
 ---
 <p align="center">
+<<<<<<< HEAD
   Desenvolvido por <a href="https://github.com/LeonardoFirme">Leonardo Firme</a>
 </p>
+=======
+  Desenvolvido por <a href="https://github.com/SEU_USUARIO">Leonardo Firme</a>
+</p>
+>>>>>>> 970480fb54bee1bcf24df07417eaddb50a9b88af
