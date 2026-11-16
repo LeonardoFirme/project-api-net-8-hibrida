@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="code.png" alt="Código da API Híbrida" width="70%" />
+  <img src="code.png" alt="Código da API Híbrida" width="100%" />
 </div>
 
 <br>
